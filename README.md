@@ -5,7 +5,7 @@ local Window = SamField:CreatWindow({
   LoadingSubtitle = "by azure cliente".
   Theme = " Default".
 
-  ToggleUiKeybind = "K",
+  ToggleUiKeybind = "L",
 
   DisableSamFieldPrompts = false,
    DisableBuildWarnings = false,
