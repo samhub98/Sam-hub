@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "SAM HUB",
+   Name = "SAM",
    Icon = Ocean,
    LoadingTitle = "SAM HUB 1.0",
    LoadingSubtitle = "by Azure hub",
